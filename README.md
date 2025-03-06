@@ -1,3 +1,5 @@
 # my-portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/98nik/my-portfolio)
+-- Nikunj Bharatbhai Parmar
+-- Devops Engineer & Backend Web Developer
+-- B.Tech in Information & Communication Technology.
