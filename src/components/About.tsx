@@ -112,8 +112,8 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <Timeline
             year="Jan 2024 - Present"
-            title="Backend Engineer at TechnoCruitX, Ahmedabad"
-            description="Leading backend development initiatives and implementing scalable solutions. Working with modern technologies and best practices in software development."
+            title="Backend Engineer Intern at TechnoCruitX, Ahmedabad"
+            description="Leading backend development initiatives and implementing scalable solutions. Working with modern technologies and best practices in Web development."
             icon={Server}
           />
           
