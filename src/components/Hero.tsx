@@ -66,7 +66,7 @@ const Hero = () => {
             </h1>
             <div className="relative">
               <p className="hero-text text-2xl md:text-3xl text-blue-300 mb-4">
-                DevOps Engineer & Backend Developer
+                DevOps & Backend Engineer
               </p>
               <motion.div
                 initial={{ width: 0 }}
